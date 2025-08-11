@@ -1,1 +1,1 @@
-STM32F407VGT6 üzerinden Neo MXN serisi GPS veye L80/86 GPS modülleri için oluşturmuş olduğum GPS test kodu. Debug modunda "live expressions" kısmında nmea kodları çözümlendirilmiş bir şekilde okuma yapılabilmekte.
+STM32F407VGT6 üzerinden Neo MXN serisi GPS veya L80/86 GPS modülleri için oluşturmuş olduğum GPS test kodu. Debug modunda "live expressions" kısmında nmea kodları çözümlendirilmiş bir şekilde okuma yapılabilmekte.
